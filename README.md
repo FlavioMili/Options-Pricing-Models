@@ -50,4 +50,4 @@ This project is a graphical user interface (GUI) for various financial models. T
 1. Select a financial model from the left panel.
 2. Input the required parameters in the middle panel.
 3. Click "Run Model" to execute the calculations.
-4. View the results and graphs in the right panel.
+4. View the results and graphs in the bottom panel.
