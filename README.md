@@ -25,8 +25,8 @@ This project is a graphical user interface (GUI) for various financial models. T
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/financial-models-gui.git
-   cd financial-models-gui
+   git clone https://github.com/FlavioMili/Options-Pricing-Models.git
+   cd Options-Pricing-Models
    ```
 
 2. Create a build directory and navigate to it:
