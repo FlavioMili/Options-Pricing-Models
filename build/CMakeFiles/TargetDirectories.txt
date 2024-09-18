@@ -1,3 +1,0 @@
-/Users/flavio/Desktop/programmazione/Option_Models/build/CMakeFiles/ModelGUI.dir
-/Users/flavio/Desktop/programmazione/Option_Models/build/CMakeFiles/edit_cache.dir
-/Users/flavio/Desktop/programmazione/Option_Models/build/CMakeFiles/rebuild_cache.dir
