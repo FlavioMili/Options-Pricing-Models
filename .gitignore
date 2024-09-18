@@ -40,13 +40,6 @@ pkgRedirects
 *.sublime-workspace
 *.sublime-project
 
-# Ignore ImGui build files
-imgui/backends/*.cpp.o
-imgui/backends/*.cpp.o.d
-imgui/*.cpp.o
-imgui/*.cpp.o.d
-implot/*.cpp.o
-implot/*.cpp.o.d
 
 # Ignore any other unwanted files or directories
 *.iml
