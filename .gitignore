@@ -1,0 +1,53 @@
+# Ignore build directories
+/build/
+
+# Ignore CMake files
+CMakeCache.txt
+CMakeFiles/
+CMakeDirectoryInformation.cmake
+Makefile
+Makefile2
+cmake_install.cmake
+cmake.check_cache
+pkgRedirects
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore compiled object files
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore log files
+*.log
+
+# Ignore other temporary files
+*.tmp
+*.bak
+*.orig
+*.patch
+*.sublime-workspace
+*.sublime-project
+
+# Ignore ImGui build files
+imgui/backends/*.cpp.o
+imgui/backends/*.cpp.o.d
+imgui/*.cpp.o
+imgui/*.cpp.o.d
+implot/*.cpp.o
+implot/*.cpp.o.d
+
+# Ignore any other unwanted files or directories
+*.iml
+*.DS_Store
