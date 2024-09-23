@@ -1,6 +1,10 @@
 # Financial Models GUI
 
-This project is a graphical user interface (GUI) for various financial models. The formulas are sourced from Wikipedia and implemented using C++ with ImGui for the interface and ImPlot for visualizations.
+This project is a graphical user interface (GUI) for various financial models. The formulas are sourced from Wikipedia and implemented using C++ with ImGui for the interface and ImPlot for visualizations. 
+
+Screenshot from the Montecarlo simulaiton and its graph:
+<img width="1183" alt="GUI reference" src="https://github.com/user-attachments/assets/5df6a3bc-a69f-4c81-bbbd-486ce3553006">
+
 
 ## Features
 
